@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Senior at Notre Dame University - Louaize<br>- Along the road I of getting my degree, I'm trying to learn more skills.<br>- I am interested the most so far in building windows application, and interested in learning Web and Mobile development.<br>- I find the most passion in frontend development, but do love the problem solving in backend development.
+Computer Science Senior at Notre Dame University - Louaize<br>- Along the road of getting my degree, I am learning new skills outside of my university curriculum that will help me graduate with enough knowledge to be an efficient programmer in the fields I am most interested in.<br>- My goal before graduating is to acquire knowledge and skills in developing web and mobile applications, as well as getting started with machine learning.<br>- I find the most passion in frontend development, but do love the problem solving in backend development.
 
 
 ## 🌐 Socials:
