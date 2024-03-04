@@ -16,6 +16,7 @@ Computer Science Senior at Notre Dame University - Louaize<br>- Along the road o
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-orange?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MoeInL&theme=gotham&hide_border=false)<br/>
