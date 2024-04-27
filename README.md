@@ -1,5 +1,13 @@
 # 💫 About Me:
-Computer Science Senior at Notre Dame University - Louaize<br>- Along the road of getting my degree, I am learning new skills outside of my university curriculum that will help me graduate with enough knowledge to be an efficient programmer in the fields I am most interested in.<br>- My goal before graduating is to acquire knowledge and skills in developing web and mobile applications using different libraries and frameworks, as well as getting into the field of machine learning.<br>- I find the most passion in frontend development, but my end goal is to be a full stack developer in the fields i'm interested in.
+Passionate React Enthusiast | Aspiring Full Stack Web and Mobile Developer
+
+I'm Moe, a dedicated learner in the world of React technologies, with a strong passion for crafting exceptional web and mobile experiences. Currently, I'm on a journey to become a full stack developer, exploring the vast landscape of front-end and back-end development.
+
+🚀 Embracing the React Ecosystem: I dive deep into the React ecosystem, constantly expanding my knowledge and skills. From React Native to Next.js, I seek to master the tools and techniques that define modern web and mobile development. However, I won't stop there. My end goal is to expand my horizons to Three.js. I aim to delve into the world of 3D graphics and immersive experiences, leveraging the power of Three.js to create stunning visualizations and interactive applications.
+
+🔨 Building a Full Stack Skill Set: I am aiming to become proficient in both front-end and back-end technologies. By learning languages like JavaScript, TypeScript, and frameworks like Express.js, I'm laying the foundation for a versatile skill set that can tackle any development challenge.
+
+📚 A Continuous Learning Journey: I believe in the power of continuous learning. Every project, every challenge is an opportunity to grow. I'm committed to staying updated with the latest trends and best practices in web and mobile development.
 
 
 ## 🌐 Socials:
