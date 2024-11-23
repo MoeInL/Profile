@@ -1,13 +1,9 @@
 # 💫 About Me:
-Passionate React Enthusiast | Aspiring Full Stack Web and Mobile Developer
+Hi, I’m Moe! I’m dedicated to building exceptional web and mobile experiences, specializing in React Native using TypeScript. Currently, I’m mastering Next.js and Express.js to solidify my full-stack skills aiming to explore Three.js to create stunning 3D visuals and interactive applications.  
 
-I'm Moe, a dedicated learner in the world of React technologies, with a strong passion for crafting exceptional web and mobile experiences. Currently, I'm on a journey to become a full stack developer, exploring the vast landscape of front-end and back-end development.
+I focus on creating intuitive and visually engaging applications. My expertise includes crafting smooth animations, designing custom UI components, and optimizing app performance to deliver seamless user experiences. I enjoy tackling complex challenges, such as implementing deep linking for navigation, integrating gesture-based interactions, and designing dynamic, responsive layouts that adapt to different devices and use cases. My goal is to combine creativity and technical precision to build apps that are both functional and delightful to use.
 
-🚀 Embracing the React Ecosystem: I dive deep into the React ecosystem, constantly expanding my knowledge and skills. From React Native to Next.js, I seek to master the tools and techniques that define modern web and mobile development. However, I won't stop there. My end goal is to expand my horizons to Three.js. I aim to delve into the world of 3D graphics and immersive experiences, leveraging the power of Three.js to create stunning visualizations and interactive applications.
-
-🔨 Building a Full Stack Skill Set: I am aiming to become proficient in both front-end and back-end technologies. By learning languages like JavaScript, TypeScript, and frameworks like Express.js, I'm laying the foundation for a versatile skill set that can tackle any development challenge.
-
-📚 A Continuous Learning Journey: I believe in the power of continuous learning. Every project, every challenge is an opportunity to grow. I'm committed to staying updated with the latest trends and best practices in web and mobile development.
+I’m a problem solver who values continuous learning, turning every project into an opportunity for growth. I’m eager to collaborate with other developers, share knowledge, and create innovative solutions. Let’s connect and build the future of web and mobile development together!
 
 
 ## 🌐 Socials:
