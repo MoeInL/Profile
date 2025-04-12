@@ -1,14 +1,12 @@
 # 💫 About Me:
-Hi, I’m Moe! I’m dedicated to building exceptional web and mobile experiences, specializing in React Native using TypeScript. Currently, I’m mastering Next.js and Express.js to solidify my full-stack skills aiming to explore Three.js to create stunning 3D visuals and interactive applications.  
+Specialising in React Native, and focusing on building engaging and high-performing mobile apps. I’m continuously expanding my frontend knowledge, aiming to deepen my expertise and broaden my skill set.
 
-I focus on creating intuitive and visually engaging applications. My expertise includes crafting smooth animations, designing custom UI components, and optimizing app performance to deliver seamless user experiences. I enjoy tackling complex challenges, such as implementing deep linking for navigation, integrating gesture-based interactions, and designing dynamic, responsive layouts that adapt to different devices and use cases. My goal is to combine creativity and technical precision to build apps that are both functional and delightful to use.
+My goal is to become a MERN stack developer and eventually lead a team, sharing knowledge and driving innovation in mobile development.
 
-I’m a problem solver who values continuous learning, turning every project into an opportunity for growth. I’m eager to collaborate with other developers, share knowledge, and create innovative solutions. Let’s connect and build the future of web and mobile development together!
-
+I’m passionate about collaborating with other developers, learning from every project, and creating seamless and delightful mobile experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MoeAlameh) 
-[![GitHub Projects](https://img.shields.io/badge/Project_Directory-%230077B5.svg?logo=Github&logoColor=white)](https://github.com/MoeInL/Project_Directory) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
